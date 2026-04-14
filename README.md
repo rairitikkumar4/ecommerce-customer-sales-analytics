@@ -73,7 +73,7 @@ The dataset contains invoice-level transactions for a UK-based online retail com
 
 ### Raw Dataset
 - **Rows:** ~541,000
-- **Coverage:** 13 months / 38 countries
+- **Coverage:** 24 months / 38 countries
 - **Granularity:** Transaction line level
 - **Fields included:** Invoice number, stock code, description, quantity, invoice date, unit price, customer ID, country
 
