@@ -9,7 +9,7 @@
 An end-to-end **data analytics portfolio project** analyzing transactional e-commerce data from a UK-based online retailer.  
 This project demonstrates a complete analytics workflow using **Excel for data cleaning and exploratory analysis**, **MySQL for business querying and customer segmentation**, and **Power BI for dashboard development**.
 
-The dataset contains **~541,000 raw transaction rows** covering **December 2010 to December 2011** across **38 countries**. After cleaning, the final analysis dataset contains **397,884 rows**.
+The dataset contains **~541,000 raw transaction rows** covering **January 2010 to December 2011** across **38 countries**. After cleaning, the final analysis dataset contains **397,884 rows**.
 
 ---
 
@@ -69,7 +69,7 @@ Key questions explored include:
 
 ## 🗂 Dataset Information
 
-The dataset contains invoice-level transactions for a UK-based online retail company between **December 2010 and December 2011**.
+The dataset contains invoice-level transactions for a UK-based online retail company between **January 2010 and December 2011**.
 
 ### Raw Dataset
 - **Rows:** ~541,000
